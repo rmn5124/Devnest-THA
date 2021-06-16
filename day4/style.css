@@ -1,1 +1,50 @@
 
+.red {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 500px;
+  height: 500px;
+  border: 5px solid rgb(211, 187, 187);
+  background-color: rgb(245, 47, 47);
+  border-radius: 50%;
+}
+.white {
+  position: absolute;
+  top: 78px;
+  width: 350px;
+  height: 350px;
+  border: 5px solid rgb(211, 187, 187);
+  background-color: white;
+  border-radius: 50%;
+}
+.hr {
+  background: #000;
+  height: 46%;
+  left: 50%;
+  position: absolute;
+  top: 5%;
+  transform-origin: 50% 100%;
+  transform: rotate(45deg);
+  width: 1%;
+}
+.min {
+  background: #000;
+  height: 46%;
+  left: 50%;
+  position: absolute;
+  top: 5%;
+  transform-origin: 50% 100%;
+  transform: rotate(120deg);
+  width: 1%;
+}
+.sec {
+  background: #000;
+  height: 46%;
+  left: 50%;
+  position: absolute;
+  top: 5%;
+  transform-origin: 50% 100%;
+  transform: rotate(30deg);
+  width: 1%;
+}
