@@ -1,0 +1,8 @@
+.food-item {
+  background-color: rgb(70, 204, 70);
+  padding: 20px;
+  margin: 10px 0;
+  box-shadow: 3px 1px 9px -1px #3d581a;
+  border-radius: 5%;
+  font-weight: bold;
+}
