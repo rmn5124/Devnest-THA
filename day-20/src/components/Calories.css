@@ -1,0 +1,17 @@
+.container {
+  width: 50%;
+  margin: auto;
+}
+
+.container-heading {
+  text-align: center;
+}
+
+.container-food {
+  background-color: white;
+  padding: 20px;
+  box-shadow: 2px 3px 9px -1px #000;
+  border-radius: 10px;
+  overflow-x: hidden;
+  height: 550px;
+}
